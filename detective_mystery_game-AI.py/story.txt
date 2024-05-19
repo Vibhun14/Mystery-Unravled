@@ -1,0 +1,17 @@
+# Scenario 1: The Haunted Manor
+Welcome to the Haunted Manor, a place shrouded in mystery and ghostly tales. The manor has been abandoned for years, and strange occurrences have been reported by the locals. As a detective, you must explore the manor, uncover its secrets, and determine who is behind the eerie happenings. Suspects include:
+- Mrs. White: The last known resident of the manor.
+- Mr. Green: A historian with a keen interest in the manor.
+- Colonel Mustard: A retired military officer who has been seen around the manor.
+
+# Scenario 2: The Missing Heirloom
+The grand mansion of the wealthy Smith family has lost its most precious heirloom, a priceless necklace passed down through generations. You have been hired to find the missing heirloom and identify the thief. Suspects include:
+- The Butler: Loyal servant of the Smith family.
+- The Maid: A young woman with a mysterious past.
+- The Gardener: A man with a grudge against the Smiths.
+
+# Scenario 3: The Art Gallery Robbery
+A daring robbery has taken place at the city's renowned art gallery. Several valuable paintings have been stolen, and it's up to you to solve the case. Investigate the gallery, gather clues, and catch the thief. Suspects include:
+- The Curator: The gallery's manager with extensive knowledge of the artworks.
+- The Security Guard: Responsible for the gallery's safety on the night of the robbery.
+- The Art Dealer: Known for shady dealings in the art world.
